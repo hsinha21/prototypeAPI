@@ -1,0 +1,20 @@
+{
+  "name": "prototypeapi",
+  "version": "1.0.0",
+  "description": "A prototype project ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshit Sinha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.5",
+    "request": "^2.88.2",
+    "shortid": "^2.2.15"
+  }
+}
